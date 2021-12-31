@@ -1,0 +1,23 @@
+{
+  "name": "assignment-2.2-modularization",
+  "version": "1.0.0",
+  "description": "## Brief",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manirajantu/assignment-2.2-modularization.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manirajantu/assignment-2.2-modularization/issues"
+  },
+  "homepage": "https://github.com/manirajantu/assignment-2.2-modularization#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "simple-excel-to-json": "^2.3.0"
+  }
+}
